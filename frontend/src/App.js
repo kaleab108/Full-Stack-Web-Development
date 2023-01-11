@@ -11,7 +11,7 @@ const App = () => {
     e.preventDefault();
     console.log(word);
   }
-  console.log(word);
+ 
   return (
     <div>
       <Header title="Images Gallery"/>
