@@ -20,7 +20,7 @@ const App = () => {
     setWord('');
   }
   
-  return (
+  return (  
     <div>
       <Header title="Images Gallery"/>
       <Search word={word} setWord={setWord} handleSubmit={handleSearchSubmit}/>
