@@ -9,6 +9,4 @@
     "editor.codeActionsOnSave":{
         "source.fixAll.eslint": true
     },
-    "zenMode.hideActivityBar": true,
-    "workbench.sideBar.location": "left"
 }
