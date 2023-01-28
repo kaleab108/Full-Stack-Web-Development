@@ -3,7 +3,7 @@ import { Jumbotron, Button } from 'react-bootstrap';
 
 const Welcome = () => (
   <Jumbotron>
-    <h1> Images </h1>
+    <h1> Images Gallery </h1>
     <p>
       This is a simple application that retrieves photos using unsplash API. In
       order to start enter any search term in the input field.
